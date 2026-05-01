@@ -1,0 +1,11 @@
+# Ignorar ambiente virtual
+.venv/
+venv/
+
+# Ignorar configurações locais
+config_tx.json
+config_rx.json
+
+# Ignorar lixo do Python
+__pycache__/
+*.pyc
